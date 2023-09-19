@@ -1,0 +1,8 @@
+{
+  "image": "jekyll/jekyll:4.2.0",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "initializeCommand": "docker pull jekyll/jekyll:4.2.0",
+  "postCreateCommand": "chmod -R 777 ."
+}
