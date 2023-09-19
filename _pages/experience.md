@@ -4,3 +4,30 @@ title: ""
 permalink: /experience/
 author_profile: true
 ---
+
+<h1>Experience</h1>
+* since 2023: PostDoc, University of Graz, Graz, Austria
+* 2021 - 2023: Postdoctoral Fellow, Simula Research Laboratory, Oslo, Norway
+    * work in project *SciML - Scientific Machine Learning*
+    * project manager for project *OSCAR - Optimal shape design for cardiovascular flows* (funding acquired by Simon Funke, RCN 320753)
+    * to a small extent involved in activitites of Simula Consulting
+* 2020 - 2021: Postdoctoral Fellow, Technical University of Munich, Munich, Germany
+    * member of IGDK 1754 Munich-Graz
+* 2016 - 2020: PhD Student, Technical University of Munich, Munich, Germany
+    * member and associated member of the IGDK 1754 Munich-Graz
+
+<h1>Education</h1>
+* 2020: PhD in Applied Mathematics (Date of award: 23/07/2020)
+    * Department of Mathematics, Technical University of Munich, Advisor: Michael Ulbrich
+    * Thesis title: *Shape Optimization for Fluid-Structure Interaction*
+* 2015: M.Sc. in Mathematics in Science and Engineering, Technical University of Munich
+* 2013: Erasmus Exchange, KTH Royal Institute of Technology, Stockholm, Sweden
+* 2013: B.Sc. in Mathematics, Technical University of Munich
+
+<h1>Extended Professional Travels</h1>
+* Fall 2020: Technical University of Graz, Graz, Austria
+* Fall 2018: University of Graz, Graz, Austria
+* Spring 2017: Unviersity of Graz, Graz, Austria
+
+<h1>Honors and awards</h1>
+* 2010-2015: Max Weber-Programm, scholarship for students in Bavaria
