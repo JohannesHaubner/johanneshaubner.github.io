@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications">
 
 <h1>Preprints</h1>
 
