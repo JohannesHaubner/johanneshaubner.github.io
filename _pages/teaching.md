@@ -43,7 +43,7 @@ author_profile: true
 <details><summary>Master's Theses</summary>
 <ul>
 <li> Spring 2022, together with Henrik Finsberg and Nickolas Forsch; Bendik Steinsvåg Dalen, <i>Characterization of Cardiac Cellular Dynamics Using Physics-Informed Neural Networks</i> </li>
-<li> Spring 2021, together with Michael Ulbrich; Leon Beack, <i>Topology Optimization of the Robust Compliance using the Topological Derivative*</i></li>
+<li> Spring 2021, together with Michael Ulbrich; Leon Baeck, <i>Topology Optimization of the Robust Compliance using the Topological Derivative</i></li>
 <li> Spring 2020, together with Michael Ulbrich; Franziska Neumann, <i>Phase Field Approaches for Shape and Topology Optimization</i> </li>
 <li> Spring 2018, together with Michael Ulbrich; Lara Senger, <i>Theoretical and Numerical Analysis of a Shape Opitmization Problem for Fluid Mechanics Using a Phase Field Approach</i> </li>
 <li> Spring 2017, together with Michael Ulbrich; Dominik Otto, <i>Penalty Schemes and Nonlinear Multigrid Algorithms for the Optimal Control of Elliptic Variational Inequalities</i> </li>
