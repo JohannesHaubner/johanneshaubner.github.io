@@ -35,25 +35,25 @@ author_profile: true
 
 <details><summary>Interns and Research Assistants</summary>
 <ul>
-<li> Spring 2022, Hanne Rokstad, Simula Summer Intern (6 weeks), *Image Registration* </li>
-<li> Spring 2020, Franziska Neumann, Student Research Assistant (2 month), *Shape and Topology Optimization* </li>
+<li> Spring 2022, Hanne Rokstad, Simula Summer Intern (6 weeks), <i>Image Registration</i> </li>
+<li> Spring 2020, Franziska Neumann, Student Research Assistant (2 month), <i>Shape and Topology Optimization</i> </li>
 </ul>
 </details>
 
 <details><summary>Master's Theses</summary>
 <ul>
-<li> Spring 2022, together with Henrik Finsberg and Nickolas Forsch; Bendik Steinsvåg Dalen, *Characterization of Cardiac Cellular Dynamics Using Physics-Informed Neural Networks* </li>
-<li> Spring 2021, together with Michael Ulbrich; Leon Beack, *Topology Optimization of the Robust Compliance using the Topological Derivative* </li>
-<li> Spring 2020, together with Michael Ulbrich; Franziska Neumann, *Phase Field Approaches for Shape and Topology Optimization* </li>
-<li> Spring 2018, together with Michael Ulbrich; Lara Senger, *Theoretical and Numerical Analysis of a Shape Opitmization Problem for Fluid Mechanics Using a Phase Field Approach* </li>
-<li> Spring 2017, together with Michael Ulbrich; Dominik Otto, *Penalty Schemes and Nonlinear Multigrid Algorithms for the Optimal Control of Elliptic Variational Inequalities* </li>
+<li> Spring 2022, together with Henrik Finsberg and Nickolas Forsch; Bendik Steinsvåg Dalen, <i>Characterization of Cardiac Cellular Dynamics Using Physics-Informed Neural Networks</i> </li>
+<li> Spring 2021, together with Michael Ulbrich; Leon Beack, <i>Topology Optimization of the Robust Compliance using the Topological Derivative*</i></li>
+<li> Spring 2020, together with Michael Ulbrich; Franziska Neumann, <i>Phase Field Approaches for Shape and Topology Optimization</i> </li>
+<li> Spring 2018, together with Michael Ulbrich; Lara Senger, <i>Theoretical and Numerical Analysis of a Shape Opitmization Problem for Fluid Mechanics Using a Phase Field Approach</i> </li>
+<li> Spring 2017, together with Michael Ulbrich; Dominik Otto, <i>Penalty Schemes and Nonlinear Multigrid Algorithms for the Optimal Control of Elliptic Variational Inequalities</i> </li>
 </ul>
 </details>
 
 <details><summary>Bachelor's Theses</summary>
 <ul> 
-<li> Spring 2016, together with Michael Ulbrich; Johannes Hog, *Stochastische Methoden zur Lösung großer Optimierungsprobleme im Maschinellen Lernen* </li>
-<li> Fall 2019, together with Michael Ulbrich; Simon Fuchsgruber, *Gauss-Seidel und Jacobi-Proximal ADMM für separable konvexe Probleme* </li>
+<li> Spring 2016, together with Michael Ulbrich; Johannes Hog, <i>Stochastische Methoden zur Lösung großer Optimierungsprobleme im Maschinellen Lernen</i> </li>
+<li> Fall 2019, together with Michael Ulbrich; Simon Fuchsgruber, <i>Gauss-Seidel und Jacobi-Proximal ADMM für separable konvexe Probleme</i> </li>
 </ul>
 </details>
 
