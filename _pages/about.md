@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+- **23/01/2023** Talk on "Improved Regularity Results for Linear Hyperbolic Equations with Application to Fluid-Structure Interaction", <a href="https://sites.google.com/view/appliedanalysisgraz/">Applied Analysis Seminar</a>, Uni Graz, Austria.
+- **07/11/2023** Talk on "Topology Optimization of Fluid Flow", Research Seminar in Inverse Problems and Mathematical Imaging, Uni Graz, Austria. 
+- **01/12/2023** Talk on "Modeling Aspects of Transformation Based Shape Optimization and Image Registration", SciML@Simula workshop, Oslo, Norway.
 - **20/09/2023** Website online.
 
