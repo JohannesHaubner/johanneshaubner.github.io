@@ -7,6 +7,8 @@ author_profile: true
 
 <h1>Teaching</h1>
 
+* Fall 2023, Teaching Assistant, Analysis 1, University of Graz
+* Fall 2023, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * Spring 2023, Teaching Assistant, Lineare Algebra 2, University of Graz
 * Spring 2023, Teaching Assistant, Stochastik 2 (für Lehramt), University of Graz
 * <details><summary>...</summary>
