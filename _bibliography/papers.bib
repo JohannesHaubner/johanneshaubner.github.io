@@ -1,3 +1,17 @@
+@article{HAUBNER2024116890,
+    title = {Learning mesh motion techniques with application to fluid–structure interaction},
+    journal = {Computer Methods in Applied Mechanics and Engineering},
+    volume = {424},
+    pages = {116890},
+    year = {2024},
+    issn = {0045-7825},
+    doi = {https://doi.org/10.1016/j.cma.2024.116890},
+    url = {https://www.sciencedirect.com/science/article/pii/S0045782524001464},
+    author = {Johannes Haubner and Ottar Hellan and Marius Zeinhofer and Miroslav Kuchta},
+    keywords = {Fluid–structure interaction, Neural networks, Partial differential equations, Hybrid PDE-NN, Mesh moving techniques, Data-driven approaches},
+    abstract = {Mesh degeneration is a bottleneck for fluid–structure interaction (FSI) simulations and for shape optimization via the method of mappings. In both cases, an appropriate mesh motion technique is required. The choice is typically based on heuristics, e.g., the solution operators of partial differential equations (PDE), such as the Laplace or biharmonic equation. Especially the latter, which shows good numerical performance for large displacements, is expensive. Moreover, from a continuous perspective, choosing the mesh motion technique is to a certain extent arbitrary and has no influence on the physically relevant quantities. Therefore, we consider approaches inspired by machine learning. We present a hybrid PDE-NN approach, where the neural network (NN) serves as parameterization of a coefficient in a second order nonlinear PDE. We ensure existence of solutions for the nonlinear PDE by the choice of the neural network architecture. Moreover, we present an approach where a neural network corrects the harmonic extension such that the boundary displacement is not changed. In order to avoid technical difficulties in coupling finite element and machine learning software, we work with a splitting of the monolithic FSI system into three smaller subsystems. This allows to solve the mesh motion equation in a separate step. We assess the quality of the learned mesh motion technique by applying it to a FSI benchmark problem. In addition, we discuss generalizability and computational cost of the learned mesh motion operators.}
+}
+
 @article {MR4566010,
     AUTHOR = {Haubner, Johannes and Neumann, Franziska and Ulbrich, Michael},
      TITLE = {A novel density based approach for topology optimization of
