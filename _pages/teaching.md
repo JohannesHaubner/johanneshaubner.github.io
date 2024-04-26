@@ -25,7 +25,6 @@ author_profile: true
   <li> Fall 2016, Teaching Assistant, Einführung in Softwaretools zur nichtlinearen Optimierung, Technical University of Munich </li>
   <li> Spring 2016, Teaching Assistant, Hauptseminar: Methoden und Anwendungen der Nichtlinearen Optimierung, Technical University of Munich </li>
   </ul>
-
   </details>
 
 
