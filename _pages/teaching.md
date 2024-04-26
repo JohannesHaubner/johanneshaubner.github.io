@@ -13,8 +13,8 @@ author_profile: true
 * Fall 2023, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * <details><summary>...</summary>
   <ul>
-  <li> Spring 2023, Teaching Assistant, Lineare Algebra 2, University of Graz
-  <li> Spring 2023, Teaching Assistant, Stochastik 2 (für Lehramt), University of Graz
+  <li> Spring 2023, Teaching Assistant, Lineare Algebra 2, University of Graz </li>
+  <li> Spring 2023, Teaching Assistant, Stochastik 2 (für Lehramt), University of Graz </li>
   <li> Spring 2020, Teaching Assistant, Numerische Mathematik (EI), Technical University of Munich, online </li>
   <li> Fall 2019, Teaching Assistant, Nonlinear Optimization: Advanced, Technical University of Munich </li>
   <li> Spring 2019, Teaching Assistant, Modern Methods in Nonlinear Optimization (Optimization in Banach Spaces), Technical University of Munich </li>
