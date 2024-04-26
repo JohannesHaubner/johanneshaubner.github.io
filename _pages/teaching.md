@@ -55,8 +55,8 @@ author_profile: true
 
 <details><summary>Bachelor's Theses</summary>
 <ul> 
-<li> Spring 2016, together with Michael Ulbrich; Johannes Hog, <i>Stochastische Methoden zur Lösung großer Optimierungsprobleme im Maschinellen Lernen</i> </li>
 <li> Fall 2019, together with Michael Ulbrich; Simon Fuchsgruber, <i>Gauss-Seidel und Jacobi-Proximal ADMM für separable konvexe Probleme</i> </li>
+<li> Spring 2016, together with Michael Ulbrich; Johannes Hog, <i>Stochastische Methoden zur Lösung großer Optimierungsprobleme im Maschinellen Lernen</i> </li>
 </ul>
 </details>
 
