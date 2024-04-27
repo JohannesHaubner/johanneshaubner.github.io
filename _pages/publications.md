@@ -59,7 +59,7 @@ author_profile: true
 </ul>
 
 ### <span style="color:rgb(0, 51, 89)"> Thesis
-<ul class="biblist">
+<ul class="thesislist">
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
