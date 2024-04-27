@@ -1,0 +1,214 @@
+- title: "Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
+  year: 2023
+  type: preprint
+  label: 
+  image: 
+  description: 
+  authors: B. Zapf, J. Haubner, L. Baumgärtner, S. Schmidt
+  link_pre: 
+    url: https://arxiv.org/abs/2305.03020
+    display: 2305.03020 (2023)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: | 
+    @misc{2305.03020,
+    Author = {Bastian Zapf and Johannes Haubner and Lukas Baumgärtner and Stephan Schmidt},
+    Title = {Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization},
+    Year = {2023},
+    Eprint = {arXiv:2305.03020},
+    }
+
+- title: "Learning mesh motion techniques with application to fluid–structure interaction"
+  year: 2024
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: J. Haubner, O. Hellan, M. Zeinhofer, M. Kuchta
+  link_pre: 
+    url: https://arxiv.org/abs/2206.02217
+    display: 
+  link_main:
+    url: https://www.sciencedirect.com/science/article/pii/S0045782524001464
+    display: Computer Methods in Applied Mechanics and Engineering
+  bibtex: | 
+        @article{HAUBNER2024116890,
+            title = {Learning mesh motion techniques with application to fluid–structure interaction},
+            journal = {Computer Methods in Applied Mechanics and Engineering},
+            volume = {424},
+            pages = {116890},
+            year = {2024},
+            issn = {0045-7825},
+            doi = {https://doi.org/10.1016/j.cma.2024.116890},
+            url = {https://www.sciencedirect.com/science/article/pii/S0045782524001464},
+            author = {Johannes Haubner and Ottar Hellan and Marius Zeinhofer and Miroslav Kuchta},
+            keywords = {Fluid–structure interaction, Neural networks, Partial differential equations, Hybrid PDE-NN, Mesh moving techniques, Data-driven approaches},
+            abstract = {Mesh degeneration is a bottleneck for fluid–structure interaction (FSI) simulations and for shape optimization via the method of mappings. In both cases, an appropriate mesh motion technique is required. The choice is typically based on heuristics, e.g., the solution operators of partial differential equations (PDE), such as the Laplace or biharmonic equation. Especially the latter, which shows good numerical performance for large displacements, is expensive. Moreover, from a continuous perspective, choosing the mesh motion technique is to a certain extent arbitrary and has no influence on the physically relevant quantities. Therefore, we consider approaches inspired by machine learning. We present a hybrid PDE-NN approach, where the neural network (NN) serves as parameterization of a coefficient in a second order nonlinear PDE. We ensure existence of solutions for the nonlinear PDE by the choice of the neural network architecture. Moreover, we present an approach where a neural network corrects the harmonic extension such that the boundary displacement is not changed. In order to avoid technical difficulties in coupling finite element and machine learning software, we work with a splitting of the monolithic FSI system into three smaller subsystems. This allows to solve the mesh motion equation in a separate step. We assess the quality of the learned mesh motion technique by applying it to a FSI benchmark problem. In addition, we discuss generalizability and computational cost of the learned mesh motion operators.}
+        }
+
+- title: "A novel density based approach for topology optimization of Stokes flow"
+  year: 2023
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: J. Haubner, F. Neumann, M. Ulbrich
+  link_pre: 
+    url: https://igdk1754.ma.tum.de/downloads/Preprints/2105_HaubnerJ.pdf?
+    display: 
+  link_main:
+    url: https://epubs.siam.org/doi/abs/10.1137/21M143114X
+    display: SIAM Journal on Scientific Computing
+  bibtex: | 
+        @article {MR4566010,
+            AUTHOR = {Haubner, Johannes and Neumann, Franziska and Ulbrich, Michael},
+             TITLE = {A novel density based approach for topology optimization of
+                      {S}tokes flow},
+           JOURNAL = {SIAM J. Sci. Comput.},
+          FJOURNAL = {SIAM Journal on Scientific Computing},
+            VOLUME = {45},
+              YEAR = {2023},
+            NUMBER = {2},
+             PAGES = {A338--A368},
+              ISSN = {1064-8275,1095-7197},
+           MRCLASS = {49Q10 (35R30 49J45 65K10 76D07)},
+          MRNUMBER = {4566010},
+               DOI = {10.1137/21M143114X},
+               URL = {https://doi.org/10.1137/21M143114X},
+        }
+
+- title: "Investigating molecular transport in the human brain from MRI with physics-informed neural networks"
+  year: 2022
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: B. Zapf, J. Haubner, M. Kuchta, G. Ringstand, P.K. Eide, K.-A. Mardal
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://www.nature.com/articles/s41598-022-19157-w
+    display: Scientific Reports
+  bibtex: |   
+        @article{zapf2022investigating,
+          title={Investigating molecular transport in the human brain from MRI with physics-informed neural networks},
+          author={Zapf, Bastian and Haubner, Johannes and Kuchta, Miroslav and Ringstad, Geir and Eide, Per Kristian and Mardal, Kent-Andre},
+          journal={Scientific Reports},
+          volume={12},
+          number={1},
+          pages={15475},
+          year={2022},
+          publisher={Nature Publishing Group UK London}
+        }
+
+- title: "Differentiability results and sensitivity calculation for optimal control of incompressible two-phase Navier-Stokes equations with surface tension"
+  year: 2022
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: E. Diehl, J. Haubner, M. Ulbrich, S. Ulbrich
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://link.springer.com/article/10.1007/s10589-022-00415-6
+    display: Computational Optimization and Applications
+  bibtex: |        
+        @article{diehl2022differentiability,
+            title={Differentiability results and sensitivity calculation for optimal control of incompressible two-phase Navier-Stokes equations with surface tension},
+            author={Diehl, Elisabeth and Haubner, Johannes and Ulbrich, Michael and Ulbrich, Stefan},
+            journal={Computational Optimization and Applications},
+            pages={1--41},
+            year={2022},
+            publisher={Springer}
+          }
+
+- title: "A continuous perspective on shape optimization via domain transformations"
+  year: 2021
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: J. Haubner, M. Siebenborn, M. Ulbrich
+  link_pre: 
+    url: https://arxiv.org/abs/2004.06942
+    display: 
+  link_main:
+    url: https://epubs.siam.org/doi/abs/10.1137/20M1332050
+    display: SIAM Journal on Scientific Computing
+  bibtex: |        
+        @article {MR4267492,
+              AUTHOR = {Haubner, J. and Siebenborn, M. and Ulbrich, M.},
+               TITLE = {A continuous perspective on shape optimization via domain
+                        transformations},
+             JOURNAL = {SIAM J. Sci. Comput.},
+            FJOURNAL = {SIAM Journal on Scientific Computing},
+              VOLUME = {43},
+                YEAR = {2021},
+              NUMBER = {3},
+               PAGES = {A1997--A2018},
+                ISSN = {1064-8275,1095-7197},
+             MRCLASS = {49Q10 (35R30 49K20 65K10)},
+            MRNUMBER = {4267492},
+          MRREVIEWER = {Patrik\ Knopf},
+                 DOI = {10.1137/20M1332050},
+                 URL = {https://doi.org/10.1137/20M1332050},
+          }
+
+- title: "Analysis of shape optimization for unsteady fluid-structure interaction"
+  year: 2020
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: J. Haubner, M. Ulbrich, S. Ulbrich
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://iopscience.iop.org/article/10.1088/1361-6420/ab5a11/pdf
+    display: Inverse Problems
+  bibtex: |        
+        @article {MR4068227,
+            AUTHOR = {Haubner, Johannes and Ulbrich, Michael and Ulbrich, Stefan},
+             TITLE = {Analysis of shape optimization problems for unsteady
+                      fluid-structure interaction},
+           JOURNAL = {Inverse Problems},
+          FJOURNAL = {Inverse Problems. An International Journal on the Theory and
+                      Practice of Inverse Problems, Inverse Methods and Computerized
+                      Inversion of Data},
+            VOLUME = {36},
+              YEAR = {2020},
+            NUMBER = {3},
+             PAGES = {034001, 38},
+              ISSN = {0266-5611,1361-6420},
+           MRCLASS = {35R30 (35Q30 74F10 74P20 76D05)},
+          MRNUMBER = {4068227},
+        MRREVIEWER = {Abdelkrim\ Chakib},
+               DOI = {10.1088/1361-6420/ab5a11},
+               URL = {https://doi.org/10.1088/1361-6420/ab5a11},
+        }
+
+- title: "Shape optimization for fluid-structure interaction"
+  year: 2020
+  type: thesis
+  label: 
+  image: 
+  description: 
+  authors: J. Haubner
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://mediatum.ub.tum.de/doc/1520895/document.pdf
+    display: Technische Universität München
+  bibtex: |        
+        @phdthesis{haubner2020shape,
+          title={Shape optimization for fluid-structure interaction},
+          author={Haubner, Johannes},
+          year={2020},
+          school={Technische Universit{\"a}t M{\"u}nchen}
+          }
