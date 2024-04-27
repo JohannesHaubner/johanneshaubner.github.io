@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- _pages/publications.md -->
 
-<h1>Preprints</h1>
+### <span style="color:rgb(0, 51, 89)"> Preprints
 
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
@@ -31,7 +31,7 @@ author_profile: true
 
 </ul>
 
-<h1>Preprints</h1>
+### <span style="color:rgb(0, 51, 89)"> Publications
 
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
@@ -58,7 +58,7 @@ author_profile: true
 
 </ul>
 
-<h1>Thesis</h1>
+### <span style="color:rgb(0, 51, 89)"> Thesis
 <ul class="biblist">
 
 {% assign number_printed = 0 %}
