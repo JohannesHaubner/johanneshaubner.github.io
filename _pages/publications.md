@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- _pages/publications.md -->
+
 ### <span style="color:rgb(0, 101, 189)"> Submitted manuscripts (under review)
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
