@@ -7,7 +7,8 @@ author_profile: true
 
 <!-- _pages/publications.md -->
 
-### <span style="color:rgb(0, 101, 189)"> Submitted manuscripts (under review)
+<h1>Preprints</h1>
+
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
@@ -30,7 +31,8 @@ author_profile: true
 
 </ul>
 
-### <span style="color:rgb(0, 101, 189)"> Publications in peer-reviewed journals
+<h1>Preprints</h1>
+
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
@@ -56,7 +58,7 @@ author_profile: true
 
 </ul>
 
-### <span style="color:rgb(0, 101, 189)"> Thesis
+<h1>Thesis</h1>
 <ul class="biblist">
 
 {% assign number_printed = 0 %}
