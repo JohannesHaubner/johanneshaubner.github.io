@@ -29,5 +29,5 @@ author_profile: true
 * Fall 2018: University of Graz, Graz, Austria
 * Spring 2017: Unviersity of Graz, Graz, Austria
 
-<h1>Honors and awards</h1>
+### <span style="color:rgb(0, 51, 89)"> Honors and awards
 * 2010-2015: Max Weber-Programm, scholarship for students in Bavaria
