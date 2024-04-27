@@ -1,7 +1,7 @@
 - title: "Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
   year: 2023
   type: preprint
-  label: 
+  label: mapMRI23
   image: 
   description: 
   authors: B. Zapf, J. Haubner, L. Baumgärtner, S. Schmidt
@@ -22,7 +22,7 @@
 - title: "Learning mesh motion techniques with application to fluid–structure interaction"
   year: 2024
   type: journal
-  label: 
+  label: FSI24
   image: 
   description: 
   authors: J. Haubner, O. Hellan, M. Zeinhofer, M. Kuchta
@@ -50,7 +50,7 @@
 - title: "A novel density based approach for topology optimization of Stokes flow"
   year: 2023
   type: journal
-  label: 
+  label: TopOpt23
   image: 
   description: 
   authors: J. Haubner, F. Neumann, M. Ulbrich
@@ -81,7 +81,7 @@
 - title: "Investigating molecular transport in the human brain from MRI with physics-informed neural networks"
   year: 2022
   type: journal
-  label: 
+  label: mapMRI22
   image: 
   description: 
   authors: B. Zapf, J. Haubner, M. Kuchta, G. Ringstand, P.K. Eide, K.-A. Mardal
@@ -106,7 +106,7 @@
 - title: "Differentiability results and sensitivity calculation for optimal control of incompressible two-phase Navier-Stokes equations with surface tension"
   year: 2022
   type: journal
-  label: 
+  label: D22
   image: 
   description: 
   authors: E. Diehl, J. Haubner, M. Ulbrich, S. Ulbrich
@@ -129,7 +129,7 @@
 - title: "A continuous perspective on shape optimization via domain transformations"
   year: 2021
   type: journal
-  label: 
+  label: ShapeOpt21
   image: 
   description: 
   authors: J. Haubner, M. Siebenborn, M. Ulbrich
@@ -161,7 +161,7 @@
 - title: "Analysis of shape optimization for unsteady fluid-structure interaction"
   year: 2020
   type: journal
-  label: 
+  label: ShapeOpt20
   image: 
   description: 
   authors: J. Haubner, M. Ulbrich, S. Ulbrich
@@ -195,7 +195,7 @@
 - title: "Shape optimization for fluid-structure interaction"
   year: 2020
   type: thesis
-  label: 
+  label: Thesis
   image: 
   description: 
   authors: J. Haubner
