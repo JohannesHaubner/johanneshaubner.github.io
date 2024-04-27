@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h1>Teaching</h1>
+### <span style="color:rgb(0, 51, 89)"> Teaching
 
 * Spring 2024, Teaching Assistant, Schulmathematik Analysis, University of Graz
 * Spring 2024, Teaching Assistant, Schulmathematik Stochastik, University of Graz
@@ -28,7 +28,7 @@ author_profile: true
   </details>
 
 
-<h1>Supervision</h1>
+### <span style="color:rgb(0, 51, 89)"> Supervision
 
 <details><summary>PhD students</summary>
 <ul>
