@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **24/07/2024** Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://ismp2024.gerad.ca/schedule/PS7/-74">ISMP 2024</a>, Montr&eacute;al, Canada.
 - **09/05/2024** Talk on "Learning Mesh Motion Techniques with Application to Fluid-Structure Interaction", <a href="https://www.imperial.ac.uk/ammp/seminars--events/ammp-research-group-seminars/lc2-learning-computation-control-seminar/">LC2 Seminar</a>, Imperial College London, UK.
 - **23/01/2024** Talk on "Improved Regularity Results for Linear Hyperbolic Equations with Application to Fluid-Structure Interaction", <a href="https://sites.google.com/view/appliedanalysisgraz/">Applied Analysis Seminar</a>, Uni Graz, Austria.
 - **07/12/2023** Talk on "Topology Optimization of Fluid Flow", Research Seminar in Inverse Problems and Mathematical Imaging, Uni Graz, Austria. 
