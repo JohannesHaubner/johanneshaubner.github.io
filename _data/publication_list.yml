@@ -1,3 +1,24 @@
+- title: "Numerical Methods for Shape Optimal Design of Fluid-Structure Interaction Problems"
+  year: 2024
+  type: preprint
+  label: ShapeOpt
+  image: 
+  description: 
+  authors: J. Haubner, M. Ulbrich
+  link_pre: 
+    url: https://arxiv.org/abs/2406.13379
+    display: 2406.13379 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: | 
+    @misc{2406.13379,
+      Author = {Johannes Haubner and Michael Ulbrich},
+      Title = {Numerical Methods for Shape Optimal Design of Fluid-Structure Interaction Problems},
+      Year = {2024},
+      Eprint = {arXiv:2406.13379},
+      }
+
 - title: "Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
   year: 2023
   type: preprint
