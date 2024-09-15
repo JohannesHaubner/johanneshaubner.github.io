@@ -1,22 +1,29 @@
 - title: "Numerical Methods for Shape Optimal Design of Fluid-Structure Interaction Problems"
   year: 2024
-  type: preprint
+  type: journal
   label: ShapeOpt
   image: 
   description: 
   authors: J. Haubner, M. Ulbrich
   link_pre: 
     url: https://arxiv.org/abs/2406.13379
-    display: 2406.13379 (2024)
+    display: 
   link_main:
-    url: 
-    display: Under review.
+    url: https://authors.elsevier.com/sd/article/S0045-7825(24)00607-8
+    display: Computer Methods in Applied Mechanics and Engineering
   bibtex: | 
-    @misc{2406.13379,
-      Author = {Johannes Haubner and Michael Ulbrich},
-      Title = {Numerical Methods for Shape Optimal Design of Fluid-Structure Interaction Problems},
-      Year = {2024},
-      Eprint = {arXiv:2406.13379},
+    @article{HAUBNER2024117352,
+      title = {Numerical methods for shape optimal design of fluid–structure interaction problems},
+      journal = {Computer Methods in Applied Mechanics and Engineering},
+      volume = {432},
+      pages = {117352},
+      year = {2024},
+      issn = {0045-7825},
+      doi = {https://doi.org/10.1016/j.cma.2024.117352},
+      url = {https://www.sciencedirect.com/science/article/pii/S0045782524006078},
+      author = {Johannes Haubner and Michael Ulbrich},
+      keywords = {Fluid–structure interaction, Shape optimization, Method of mappings, Navier–Stokes equations, Saint Venant–Kirchhoff type material, FSI2 benchmark},
+      abstract = {We consider the method of mappings for performing shape optimization for unsteady fluid–structure interaction (FSI) problems. In this work, we focus on the numerical implementation. We model the optimization problem such that it takes several theoretical results into account, such as regularity requirements on the transformations and a differential geometrical point of view on the manifold of shapes. Moreover, we discretize the problem such that we can compute exact discrete gradients. This allows for the use of general purpose optimization solvers. We focus on problems derived from an FSI benchmark to validate our numerical implementation. The method is used to optimize parts of the outer boundary and the interface. The numerical simulations build on FEniCS, dolfin-adjoint and IPOPT. Moreover, as an additional theoretical result, we show that for a linear special case the adjoint attains the same structure as the forward problem but reverses the temporal flow of information.}
       }
 
 - title: "Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
