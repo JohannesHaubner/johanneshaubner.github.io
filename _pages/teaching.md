@@ -7,12 +7,14 @@ author_profile: true
 
 ### <span style="color:rgb(0, 51, 89)"> Teaching
 
+* Fall 2024, Teaching Assistant, Analysis 1, University of Graz
+* Fall 2024, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * Spring 2024, Teaching Assistant, Schulmathematik Analysis, University of Graz
 * Spring 2024, Teaching Assistant, Schulmathematik Stochastik, University of Graz
-* Fall 2023, Teaching Assistant, Analysis 1, University of Graz
-* Fall 2023, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * <details><summary>...</summary>
   <ul>
+  <li> Fall 2023, Teaching Assistant, Analysis 1, University of Graz </li>
+  <li> Fall 2023, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz </li>
   <li> Spring 2023, Teaching Assistant, Lineare Algebra 2, University of Graz </li>
   <li> Spring 2023, Teaching Assistant, Stochastik 2 (für Lehramt), University of Graz </li>
   <li> Spring 2020, Teaching Assistant, Numerische Mathematik (EI), Technical University of Munich, online </li>
