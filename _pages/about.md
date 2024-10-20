@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **24/10/2024** Talk on "Image Registration as a PDE-Constrained Optimization Problem", <a href="https://www.nawigraz.at">NAWI Graz Scientific Advisory Board Meeting, Graz, Austria.
 - **30/09/2024** Talk on "Shape Optimal Design of Fluid-Structure Interaction Problems", <a href="https://www.uni-graz.at/de/veranstaltungen/colibri-day/">COLIBRI Day 2024</a>, Uni Graz, Austria.
 - **14/08/2024** Talk on "Image Registration in Non-Reflexive Banach Spaces", <a href="https://www.conferences.uni-hamburg.de/event/301/">IFIP TC7</a>, Hamburg, Germany.
 - **24/07/2024** Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://ismp2024.gerad.ca/schedule/PS7/-74">ISMP 2024</a>, Montr&eacute;al, Canada.
