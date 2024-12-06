@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **16/12/2024** Talk on "Shape Optimization for Fluid-Structure Interaction", Hamburg University of Technology, Hamburg, Germany.
 - **24/10/2024** Talk on "Image Registration as a PDE-Constrained Optimization Problem", <a href="https://www.nawigraz.at">NAWI Graz</a> Scientific Advisory Board Meeting, Graz, Austria.
 - **30/09/2024** Talk on "Shape Optimal Design of Fluid-Structure Interaction Problems", <a href="https://www.uni-graz.at/de/veranstaltungen/colibri-day/">COLIBRI Day 2024</a>, Uni Graz, Austria.
 - **14/08/2024** Talk on "Image Registration in Non-Reflexive Banach Spaces", <a href="https://www.conferences.uni-hamburg.de/event/301/">IFIP TC7</a>, Hamburg, Germany.
