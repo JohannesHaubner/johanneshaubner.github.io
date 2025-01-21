@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **31/01/2025** Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://colibri.uni-graz.at/de/colibri-focus-workshop-computational-medicine/">COLIBRI Focus Workshop on Computational Medicine</a>, Graz, Austria.
 - **16/12/2024** Talk on "Shape Optimization for Fluid-Structure Interaction", Hamburg University of Technology, Hamburg, Germany.
 - **24/10/2024** Talk on "Image Registration as a PDE-Constrained Optimization Problem", <a href="https://www.nawigraz.at">NAWI Graz</a> Scientific Advisory Board Meeting, Graz, Austria.
 - **30/09/2024** Talk on "Shape Optimal Design of Fluid-Structure Interaction Problems", <a href="https://www.uni-graz.at/de/veranstaltungen/colibri-day/">COLIBRI Day 2024</a>, Uni Graz, Austria.
