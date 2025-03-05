@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- **05/2025** Talk on "Shape Optimization for Unsteady Fluid--Structure Interaction", COUPLED 2025, Sardinia, Italy.
-- **04/2025** Talk on "Numerical methods for shape optimization of fluid--structure interaction problems", UKACM 2025, London, UK.
-- **31/01/2025** Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://colibri.uni-graz.at/de/colibri-focus-workshop-computational-medicine/">COLIBRI Focus Workshop on Computational Medicine</a>, Graz, Austria.
+- **05/2025** Talk on "Shape Optimization for Unsteady Fluid--Structure Interaction", <a href="https://coupled2025.cimne.com">COUPLED 2025</a>, Sardinia, Italy.
+- **04/2025** Talk on "Numerical methods for shape optimization of fluid--structure interaction problems", <a href="https://sites.google.com/view/ukacm2025conference">UKACM 2025</a>, London, UK.
 <details><summary>...</summary>
   <ul>
+  <li> <b>31/01/2025</b> Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://colibri.uni-graz.at/de/colibri-focus-workshop-computational-medicine/">COLIBRI Focus Workshop on Computational Medicine</a>, Graz, Austria.</li>
   <li> <b>16/12/2024</b> Talk on "Shape Optimization for Fluid-Structure Interaction", Hamburg University of Technology, Hamburg, Germany.</li>
   <li> <b>24/10/2024</b> Talk on "Image Registration as a PDE-Constrained Optimization Problem", <a href="https://www.nawigraz.at">NAWI Graz</a> Scientific Advisory Board Meeting, Graz, Austria.</li>
   <li> <b>30/09/2024</b> Talk on "Shape Optimal Design of Fluid-Structure Interaction Problems", <a href="https://www.uni-graz.at/de/veranstaltungen/colibri-day/">COLIBRI Day 2024</a>, Uni Graz, Austria.</li>
