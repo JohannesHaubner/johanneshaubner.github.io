@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- **05/2025** Talk on "Shape Optimization for Unsteady Fluid--Structure Interaction", <a href="https://coupled2025.cimne.com">COUPLED 2025</a>, Sardinia, Italy.
-- **04/2025** Talk on "Numerical methods for shape optimization of fluid--structure interaction problems", <a href="https://sites.google.com/view/ukacm2025conference">UKACM 2025</a>, London, UK.
+- **09/2025** Talk on "Learning Mesh Motion Techniques with Application to Fluid--Structure Interaction", <a href="https://enumath2025.eu/">Enumath 2025</a>, Heidelberg, Germany.
+- **07/2025** Talk on "Image Registration in Non-Reflexive Banach Spaces", <a href="https://sites.google.com/view/iccopt2025/home">ICCOPT 2025</a>, Los Angeles, US.
+- **28/05/2025** Talk on "Shape Optimization for Unsteady Fluid--Structure Interaction", <a href="https://coupled2025.cimne.com">COUPLED 2025</a>, Sardinia, Italy.
+- **25/04/2025** Talk on "Numerical methods for shape optimization of fluid--structure interaction problems", <a href="https://sites.google.com/view/ukacm2025conference">UKACM 2025</a>, London, UK.
 <details><summary>...</summary>
   <ul>
   <li> <b>31/01/2025</b> Talk on "Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation", <a href="https://colibri.uni-graz.at/de/colibri-focus-workshop-computational-medicine/">COLIBRI Focus Workshop on Computational Medicine</a>, Graz, Austria.</li>
