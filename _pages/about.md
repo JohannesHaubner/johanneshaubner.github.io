@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - **09/2025** Talk on "Learning Mesh Motion Techniques with Application to Fluid--Structure Interaction", <a href="https://enumath2025.eu/">Enumath 2025</a>, Heidelberg, Germany.
-- **07/2025** Talk on "Image Registration in Non-Reflexive Banach Spaces", <a href="https://sites.google.com/view/iccopt2025/home">ICCOPT 2025</a>, Los Angeles, US.
+- **22/07/2025** Talk on "Image Registration in Non-Reflexive Banach Spaces", <a href="https://sites.google.com/view/iccopt2025/home">ICCOPT 2025</a>, Los Angeles, US.
 - **28/05/2025** Talk on "Shape Optimization for Unsteady Fluid--Structure Interaction", <a href="https://coupled2025.cimne.com">COUPLED 2025</a>, Sardinia, Italy.
 - **25/04/2025** Talk on "Numerical methods for shape optimization of fluid--structure interaction problems", <a href="https://sites.google.com/view/ukacm2025conference">UKACM 2025</a>, London, UK.
 <details><summary>...</summary>
