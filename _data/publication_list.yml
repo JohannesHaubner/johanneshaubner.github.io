@@ -1,3 +1,51 @@
+- title: "Well-posedness of an optical flow based optimal control formulation for image registration"
+  year: 2025
+  type: preprint
+  label: mapMRI25
+  image: 
+  description: 
+  authors: J. Haubner, C. Clason
+  link_pre: 
+    url: https://arxiv.org/abs/2507.10188
+    display: 2507.10188 (2025)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: | 
+    @misc{2507.10188,
+      Author = {Johannes Haubner and Christian Clason},
+      Title = {Well-posedness of an optical flow based optimal control formulation for image registration},
+      Year = {2025},
+      Eprint = {arXiv:2507.10188},
+      }
+      
+- title: "Medical image registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
+  year: 2025
+  type: journal
+  label: mapMRI23
+  image: 
+  description: 
+  authors: B. Zapf, J. Haubner, L. Baumgärtner, S. Schmidt
+  link_pre: 
+    url: https://arxiv.org/abs/2305.03020
+    display: 2305.03020 (2023)
+  link_main:
+    url: https://epubs.siam.org/doi/abs/10.1137/23M1570727
+    display: SIAM Journal on Scientific Computing
+  bibtex: | 
+    @article{doi:10.1137/23M1570727,
+      author = {Zapf, Bastian and Haubner, Johannes and Baumg\"{a}rtner, Lukas and Schmidt, Stephan},
+      title = {Medical Image Registration Using Optimal Control of a Linear Hyperbolic Transport Equation with a DG Discretization},
+      journal = {SIAM Journal on Scientific Computing},
+      volume = {47},
+      number = {2},
+      pages = {B253-B279},
+      year = {2025},
+      doi = {10.1137/23M1570727},
+      URL = {https://doi.org/10.1137/23M1570727},
+      eprint = {https://doi.org/10.1137/23M1570727},
+      }
+
 - title: "Numerical Methods for Shape Optimal Design of Fluid-Structure Interaction Problems"
   year: 2024
   type: journal
@@ -25,27 +73,6 @@
       keywords = {Fluid–structure interaction, Shape optimization, Method of mappings, Navier–Stokes equations, Saint Venant–Kirchhoff type material, FSI2 benchmark},
       abstract = {We consider the method of mappings for performing shape optimization for unsteady fluid–structure interaction (FSI) problems. In this work, we focus on the numerical implementation. We model the optimization problem such that it takes several theoretical results into account, such as regularity requirements on the transformations and a differential geometrical point of view on the manifold of shapes. Moreover, we discretize the problem such that we can compute exact discrete gradients. This allows for the use of general purpose optimization solvers. We focus on problems derived from an FSI benchmark to validate our numerical implementation. The method is used to optimize parts of the outer boundary and the interface. The numerical simulations build on FEniCS, dolfin-adjoint and IPOPT. Moreover, as an additional theoretical result, we show that for a linear special case the adjoint attains the same structure as the forward problem but reverses the temporal flow of information.}
       }
-
-- title: "Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization"
-  year: 2023
-  type: preprint
-  label: mapMRI23
-  image: 
-  description: 
-  authors: B. Zapf, J. Haubner, L. Baumgärtner, S. Schmidt
-  link_pre: 
-    url: https://arxiv.org/abs/2305.03020
-    display: 2305.03020 (2023)
-  link_main:
-    url: 
-    display: Under review.
-  bibtex: | 
-    @misc{2305.03020,
-    Author = {Bastian Zapf and Johannes Haubner and Lukas Baumgärtner and Stephan Schmidt},
-    Title = {Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization},
-    Year = {2023},
-    Eprint = {arXiv:2305.03020},
-    }
 
 - title: "Learning mesh motion techniques with application to fluid–structure interaction"
   year: 2024
