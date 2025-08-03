@@ -7,6 +7,8 @@ author_profile: true
 
 ### <span style="color:rgb(0, 51, 89)"> Teaching
 
+* Fall 2025, Numerical Linear Algebra for Data Science, University of Graz
+* Fall 2025, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * Spring 2025, Seminar (Angewandte Mathematik und Data Science), University of Graz
 * Spring 2025, Teaching Assistant, Optimisation for Data Science, University of Graz
 * Fall 2024, Teaching Assistant, Analysis 1, University of Graz
