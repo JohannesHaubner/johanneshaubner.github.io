@@ -37,9 +37,6 @@ author_profile: true
 ### <span style="color:rgb(0, 51, 89)"> Supervision
 
 <details><summary>PhD students</summary>
-<ul>
-<li> since 2022, co-supervision of Ottar Hellan; together with Miroslav Kuchta, Kent-Andre Mardal </li>
-</ul>
 </details>
 
 <details><summary>Interns and Research Assistants</summary>
