@@ -17,7 +17,7 @@ author_profile: true
     * member and associated member of the IGDK 1754 Munich-Graz
 
 ### <span style="color:rgb(0, 51, 89)"> Education
-* 2020: PhD in Applied Mathematics (Date of award: 23/07/2020)
+* 2020: Dr.rer.nat in Applied Mathematics (Date of award: 23/07/2020)
     * Department of Mathematics, Technical University of Munich, Advisor: Michael Ulbrich
     * Thesis title: *Shape Optimization for Fluid-Structure Interaction*
 * 2015: M.Sc. in Mathematics in Science and Engineering, Technical University of Munich
