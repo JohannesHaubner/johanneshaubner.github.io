@@ -27,7 +27,7 @@ author_profile: true
 ### <span style="color:rgb(0, 51, 89)"> Extended Professional Travels
 * Fall 2020: Technical University of Graz, Graz, Austria
 * Fall 2018: University of Graz, Graz, Austria
-* Spring 2017: Unviersity of Graz, Graz, Austria
+* Spring 2017: University of Graz, Graz, Austria
 
 ### <span style="color:rgb(0, 51, 89)"> Honors and awards
 * 2010-2015: Max Weber-Programm, scholarship for students in Bavaria
