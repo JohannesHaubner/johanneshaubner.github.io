@@ -7,6 +7,8 @@ author_profile: true
 
 ### <span style="color:rgb(0, 51, 89)"> Teaching
 
+* Spring 2026, Shape and Topology Optimisation, University of Graz
+* Spring 2026, Teaching Assistant, Nonlinear Optimisation, University of Graz
 * Fall 2025, Numerical Linear Algebra for Data Science, University of Graz
 * Fall 2025, Teaching Assistant, Stochastik 1 (für Lehramt), University of Graz
 * Spring 2025, Seminar (Angewandte Mathematik und Data Science), University of Graz
@@ -58,6 +60,8 @@ author_profile: true
 
 <details><summary>Bachelor's Theses</summary>
 <ul> 
+<li> Fall 2025, Maximilian Strobl, <i>PDE-restringierte Bildregistrierung durch Erlernen der Geschwindigkeit und des Lösungsoperators mittels Neuronaler Netze</i> </li>
+<li> Fall 2025, Mathias Egarter, <i>Gauß'sche Zufallsfelder</i> </li>
 <li> Fall 2019, together with Michael Ulbrich; Simon Fuchsgruber, <i>Gauss-Seidel und Jacobi-Proximal ADMM für separable konvexe Probleme</i> </li>
 <li> Spring 2016, together with Michael Ulbrich; Johannes Hog, <i>Stochastische Methoden zur Lösung großer Optimierungsprobleme im Maschinellen Lernen</i> </li>
 </ul>
